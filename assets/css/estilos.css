@@ -1,0 +1,21 @@
+	body {background-color: lightblue;font-family: arial}
+	label {display: inline-block;width: 140px; vertical-align:top}
+	form {width: 30%;margin: auto;border: 2px ridge lightblue;padding: 20px;}
+	h2 {text-align: center;}
+	table {width: 75%;margin:auto;border: 1px solid grey}
+	th, td {border: 1px solid grey;padding: 5px; background-color: white}
+
+	nav {position:relative; background-color:lightgrey;font-size: 1.2em;padding:3px; margin-bottom:50px;}
+	nav a {text-decoration: none;}
+	nav ul {list-style:none; background-color:lightgrey; text-align:center;}
+	nav li {display: inline-block; margin-right:70px; vertical-align: top;margin-bottom:5px;text-align:left;}
+	nav .submenu li {display: block;margin-right:10px}
+	nav .submenu ul {padding:0px; height: 0px; overflow: hidden; transition:0.5s; position: absolute; margin-top:10px;}
+	nav .submenu:hover ul {height: 45px}
+
+	select {min-width:175px;}
+	/*form#buscador {position: absolute; top:2px; right: 10px; width: 250px;}*/
+
+	.seleccionado {background-color: orange;}
+
+	span.categoriaschecks {display: inline-block; vertical-align: top; margin-left: 10px;}
