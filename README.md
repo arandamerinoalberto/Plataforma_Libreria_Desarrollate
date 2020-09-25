@@ -1,14 +1,14 @@
 # Plataforma_Libreria_Desarrollate
 
-Este es mi primer proyecto realizado en PHP, donde realicé un sistema de gestión interna de una librería.
+This is my first project done in PHP, where I made an internal management system for a library.
 
-En él, podemos realizar las diferentes acciones de alta,baja,consulta y modificación de usuarios, categorías, libros y pedidos.
-Todos estos archivos están vinculados a una base de datos llamada libreria_2.sql.
+In it, we can carry out the different actions of registration, cancellation, consultation and modification of users, categories, books and orders.
+All these files are linked to a database called libreria_2.sql.
 
-Este, será el primer archivo que tendrás que subir a la bbdd de MariaDB en phpmyadmin.
+This will be the first file that you will have to upload to the MariaDB database in phpmyadmin.
 
-Para ejecutarlo tendrás que inicializar XAMMP y activar los dos módulos, tanto de Apache con de MYSQL.
+To run it you will have to initialize XAMMP and activate the two modules, both Apache and MYSQL.
 
-Si tienes alguna duda en su activación o puesta en marcha puedes escribirme en: arandamerinoalberto@gmail.com
+If you have any questions about its activation or start-up you can write to me at: arandamerinoalberto@gmail.com
 
-Saludos.
+Regards!
